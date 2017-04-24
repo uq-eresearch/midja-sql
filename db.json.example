@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "port": "5432",
+  "database": "cartodb_dev_user_6917ba11-1bf9-43b7-8929-a0585a8667e6_db",
+  "user": "publicuser",
+  "password": ""
+}

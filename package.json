@@ -1,0 +1,25 @@
+{
+  "name": "midja-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uq-eresearch/midja-sql.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uq-eresearch/midja-sql/issues"
+  },
+  "homepage": "https://github.com/uq-eresearch/midja-sql#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs-promise": "^2.0.2",
+    "pg-promise": "^5.6.7"
+  }
+}
