@@ -1,4 +1,4 @@
-# midja-db
+# midja-sql
 
 Really simple replacement for CartoDB API, given very little is actually needed.
 
