@@ -21,6 +21,7 @@ async function run(configFileName, port) {
   })
 
   app.listen(port)
+  console.log("midja-sql listening on "+port)
 }
 
 run(args[0], args[1] || 3000)
